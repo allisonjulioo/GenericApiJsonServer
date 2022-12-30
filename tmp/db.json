@@ -1,11 +1,13 @@
 {
   "inventory": [
     {
-      "id": "P1198",
-      "description": "testes",
-      "quant": 12,
+      "id": "P1003",
+      "description": "teste",
+      "quant": -8,
       "unity": "kg",
-      "input": "2022-12-29T21:49:56.118Z"
+      "input": "2022-12-30T02:20:16.977Z",
+      "leave": 20
     }
-  ]
+  ],
+  "bots": []
 }
